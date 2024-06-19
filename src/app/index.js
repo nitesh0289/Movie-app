@@ -1,9 +1,10 @@
+import NavBar from "../components/shared/navbar";
 import styles from "./app.module.scss";
 
 function App() {
   return (
     <main className={styles.main}>
-      <h1>This is a Movie Application</h1>
+      <NavBar />
     </main>
   );
 }
