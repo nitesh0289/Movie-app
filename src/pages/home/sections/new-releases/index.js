@@ -1,5 +1,7 @@
 import React from "react";
 
+import styles from "./releases.module.scss";
+
 function NewRelease() {
   return (
     <section>

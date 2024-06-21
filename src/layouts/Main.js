@@ -3,11 +3,13 @@ import { Outlet } from "react-router-dom";
 
 import NavBar from "../components/shared/navbar";
 
+import styles from "./layout.module.scss";
+
 function Main() {
   return (
     <Suspense fallback={<h1>Loading...</h1>}>
       <NavBar />
-      <section>
+      <section className={styles.main}>
         <Outlet />
       </section>
     </Suspense>
