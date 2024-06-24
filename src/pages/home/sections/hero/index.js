@@ -1,32 +1,20 @@
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from "react-responsive-carousel";
 import React from "react";
 
-import Button from "../../../../components/atoms/button";
-import { Icon } from "@iconify/react/dist/iconify.js";
-import * as assets from "../../../../assets";
+import CarouselItems from "../../partials/carousel-items";
+
+import CarouselData from "../../../../data/Carousel";
 import styles from "./hero.module.scss";
 
 function Hero() {
   return (
     <section className={styles.container}>
-      <img src={assets.Avatar} alt="avatar-home" />
-      <article>
-        <div className={styles.btns}>
-          <Button
-            name={"Watch Now"}
-            handler={() => console.log("clicked watch")}
-            className={styles.now}
-          >
-            <Icon icon="icon-park-solid:play" />
-          </Button>
-          <Button
-            name={"Watch Later"}
-            handler={() => console.log("clicked watch")}
-            className={styles.later}
-          >
-            <Icon icon="mdi:clock" />
-          </Button>
-        </div>
-      </article>
+      <Carousel showThumbs={false} className={styles.carousel}>
+        {CarouselData.map((item, index) => (
+          <CarouselItems item={item} key={index} />
+        ))}
+      </Carousel>
     </section>
   );
 }
