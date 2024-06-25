@@ -12,7 +12,12 @@ function Hero() {
     <section className={styles.container}>
       <Carousel showThumbs={false} className={styles.carousel}>
         {CarouselData.map((item, index) => (
-          <CarouselItems item={item} key={index} />
+          <CarouselItems
+            item={item}
+            key={index}
+            watchNowHandler={() => console.log("watch now clicked")}
+            watchLaterHandler={() => console.log("watch later handler")}
+          />
         ))}
       </Carousel>
     </section>
