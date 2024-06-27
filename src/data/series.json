@@ -1,0 +1,732 @@
+[
+    {
+        "id": 1,
+        "title": "Power four suddenly",
+        "description": "Let who detail call. Believe parent eat so debate word home. Simply society let trouble.\nNeed message two between yeah.",
+        "launchDate": "2023-03-18",
+        "thumbnailImage": "https://placeimg.com/228/722/any",
+        "episodes": 13,
+        "rating": 7.0,
+        "genre": "Drama",
+        "country": "India",
+        "production": "Stewart, Jackson and Rodriguez",
+        "cast": [
+            "Holly Elliott",
+            "James Lopez",
+            "Emily Hines",
+            "Justin Sanchez",
+            "Betty Long"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Seven meeting nice",
+        "description": "Safe while act guess. Baby rate as let customer. Past take entire Mrs there. Within other machine.\nElse TV wind sometimes. Worker home instead factor address foreign.",
+        "launchDate": "2020-08-26",
+        "thumbnailImage": "https://placekitten.com/270/305",
+        "episodes": 13,
+        "rating": 9.3,
+        "genre": "Adventure",
+        "country": "Japan",
+        "production": "Hammond, Gilbert and Smith",
+        "cast": [
+            "Brandon Campos",
+            "Jennifer Gonzalez",
+            "Jessica Carter",
+            "Ernest Ryan"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Compare look",
+        "description": "True order lose anything sometimes still subject. News message up have member food thousand. Enter student then.\nLate technology south either bill ground she. Up American job probably environmental.",
+        "launchDate": "2021-07-20",
+        "thumbnailImage": "https://www.lorempixel.com/13/269",
+        "episodes": 13,
+        "rating": 3.3,
+        "genre": "Crime",
+        "country": "South Korea",
+        "production": "Hess-Johnson",
+        "cast": [
+            "Christopher Ryan",
+            "John Peters",
+            "Michael Hicks",
+            "Emily Torres"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Interest perform child",
+        "description": "Enjoy indeed her audience high career. Care something national involve. Color off system bar participant.\nEstablish there last employee. West image morning music employee.",
+        "launchDate": "2021-04-14",
+        "thumbnailImage": "https://placeimg.com/457/1009/any",
+        "episodes": 13,
+        "rating": 6.7,
+        "genre": "Drama",
+        "country": "UK",
+        "production": "Serrano, Douglas and Myers",
+        "cast": [
+            "Leah Cervantes",
+            "Samantha Reed",
+            "Angelica Chan",
+            "Whitney Dominguez"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Hope threat",
+        "description": "Threat still news detail. Top instead fish find rate per address financial.\nEasy PM white top. Agency enjoy fact such blood partner. Success if health near which office recognize.",
+        "launchDate": "2022-07-02",
+        "thumbnailImage": "https://www.lorempixel.com/479/168",
+        "episodes": 13,
+        "rating": 9.4,
+        "genre": "Crime",
+        "country": "South Korea",
+        "production": "Marshall, Nixon and Johnson",
+        "cast": [
+            "Dalton Campbell",
+            "Bradley Hill",
+            "Adam Garcia"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Law when",
+        "description": "Challenge fine cultural measure evening its. Board drive you director lay. Day board table wife game you.\nMilitary miss worker staff yes language. At power former whole. Deep just save road paper.",
+        "launchDate": "2024-04-21",
+        "thumbnailImage": "https://dummyimage.com/1015x656",
+        "episodes": 13,
+        "rating": 2.2,
+        "genre": "Adventure",
+        "country": "UK",
+        "production": "Harvey-Wade",
+        "cast": [
+            "Kerry Burton",
+            "Lawrence Hawkins",
+            "John Owens MD",
+            "Latoya Dixon",
+            "Ashley Rivera"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Maybe month before",
+        "description": "Mind big security watch. Professional couple effort matter green how.\nStar law thank study from especially. By region music sister among call different.",
+        "launchDate": "2020-10-28",
+        "thumbnailImage": "https://dummyimage.com/339x257",
+        "episodes": 13,
+        "rating": 9.3,
+        "genre": "Sci-Fi",
+        "country": "South Korea",
+        "production": "Rodriguez-Harmon",
+        "cast": [
+            "Sally Harris",
+            "Kevin Thomas",
+            "Robert Franco",
+            "Mark Guzman"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Admit employee door",
+        "description": "Beyond allow do while. Successful road worker north yes film face party. Moment success right organization man room.",
+        "launchDate": "2024-05-18",
+        "thumbnailImage": "https://placekitten.com/650/432",
+        "episodes": 13,
+        "rating": 3.8,
+        "genre": "Comedy",
+        "country": "Canada",
+        "production": "Edwards, Sosa and Anderson",
+        "cast": [
+            "Katie Bowers",
+            "Victor Smith",
+            "Austin Salinas"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Country discuss worry",
+        "description": "American great report cover question central interview. Across true rock level positive notice life.\nHand may there imagine produce across according. Station community wrong game send able.",
+        "launchDate": "2022-11-30",
+        "thumbnailImage": "https://placeimg.com/959/62/any",
+        "episodes": 13,
+        "rating": 8.8,
+        "genre": "Crime",
+        "country": "USA",
+        "production": "Anderson, Sanders and Best",
+        "cast": [
+            "Jocelyn Wilson",
+            "Mr. David Jensen Jr.",
+            "Corey Blankenship",
+            "Jessica Beard"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Civil fill authority",
+        "description": "Turn technology note special edge. Let off whom nation start sign.\nSpeak consider side song modern political. Throw against again at challenge. Police reason more head suggest generation.",
+        "launchDate": "2024-01-31",
+        "thumbnailImage": "https://www.lorempixel.com/49/398",
+        "episodes": 13,
+        "rating": 6.4,
+        "genre": "Mystery",
+        "country": "Australia",
+        "production": "Jones, Barker and Johnson",
+        "cast": [
+            "Mr. Justin Hopkins Jr.",
+            "James Olson",
+            "Amber Douglas",
+            "Lori Brooks"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Represent reduce show",
+        "description": "Analysis life activity morning station. Wonder story available single. So politics recent know region yard safe actually. Interesting around trip.\nCall dark state think whom before language.",
+        "launchDate": "2024-02-01",
+        "thumbnailImage": "https://dummyimage.com/291x809",
+        "episodes": 13,
+        "rating": 6.7,
+        "genre": "Mystery",
+        "country": "Canada",
+        "production": "Morris, Davis and Mitchell",
+        "cast": [
+            "Nicole Vazquez PhD",
+            "Amy Butler",
+            "Brian Burgess",
+            "Sean Taylor",
+            "Todd Wallace"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Several blue",
+        "description": "Pass yet always report usually. Well matter piece western go through summer.\nSoon word matter market box someone firm. Might success effort beautiful people fly city policy.",
+        "launchDate": "2022-06-11",
+        "thumbnailImage": "https://placekitten.com/331/860",
+        "episodes": 13,
+        "rating": 2.7,
+        "genre": "Drama",
+        "country": "Japan",
+        "production": "Hamilton-Oliver",
+        "cast": [
+            "Richard Liu DDS",
+            "Lisa Pierce",
+            "Barry Alvarez",
+            "Jeffrey Garcia"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "So animal box",
+        "description": "Customer perhaps deep place. Still capital forget against.\nAccording budget age dog. Beautiful color adult pressure term.",
+        "launchDate": "2021-11-26",
+        "thumbnailImage": "https://placekitten.com/338/611",
+        "episodes": 13,
+        "rating": 7.3,
+        "genre": "Action",
+        "country": "UK",
+        "production": "Carlson-Campbell",
+        "cast": [
+            "Danielle Weber",
+            "Jason Scott",
+            "Jeremy Tate",
+            "Andrew Brewer",
+            "Stephanie Kent"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Teach learn draw",
+        "description": "Allow country wide kitchen exist. Dream series improve maintain little as.\nMaterial white find party. Soldier side street crime. Lead hair maintain figure herself.",
+        "launchDate": "2020-10-08",
+        "thumbnailImage": "https://dummyimage.com/434x709",
+        "episodes": 13,
+        "rating": 6.8,
+        "genre": "Adventure",
+        "country": "Japan",
+        "production": "Greene, Owen and Weber",
+        "cast": [
+            "Mark Rojas",
+            "Sean Price",
+            "Lisa Alexander",
+            "Michael Hernandez"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Accept matter",
+        "description": "Step get commercial go. Campaign home human officer eight. Modern dog nor star great generation start part.",
+        "launchDate": "2020-04-01",
+        "thumbnailImage": "https://www.lorempixel.com/626/776",
+        "episodes": 13,
+        "rating": 1.6,
+        "genre": "Sci-Fi",
+        "country": "South Korea",
+        "production": "Barnes-Smith",
+        "cast": [
+            "Tamara Fletcher",
+            "Anita Martin",
+            "John Atkinson",
+            "Taylor Robinson",
+            "George Short"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Relationship spring part",
+        "description": "Some class something sea available property. Good both bar western development performance thought.\nSon response economic. Summer tree visit identify general actually. Really energy world fly method.",
+        "launchDate": "2020-09-23",
+        "thumbnailImage": "https://placekitten.com/154/888",
+        "episodes": 13,
+        "rating": 9.8,
+        "genre": "Fantasy",
+        "country": "Australia",
+        "production": "Walton-Smith",
+        "cast": [
+            "Cindy Washington",
+            "Sarah Miller",
+            "Patricia Rivera",
+            "Dominic Moore",
+            "Christopher Lambert"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Response pass religious",
+        "description": "Professor story travel discussion sing church. Mean notice manager actually administration consumer. Best deal their group ball.",
+        "launchDate": "2024-03-28",
+        "thumbnailImage": "https://placeimg.com/156/182/any",
+        "episodes": 13,
+        "rating": 1.2,
+        "genre": "Crime",
+        "country": "Germany",
+        "production": "Boyd-Ramirez",
+        "cast": [
+            "Austin Tran",
+            "James Johnson",
+            "Nicholas Richardson",
+            "Holly Rich"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Site senior",
+        "description": "Approach stop candidate property indeed newspaper key. Case interesting avoid movement short now south. Exactly despite find Congress outside.",
+        "launchDate": "2022-12-18",
+        "thumbnailImage": "https://placekitten.com/679/958",
+        "episodes": 13,
+        "rating": 2.9,
+        "genre": "Adventure",
+        "country": "USA",
+        "production": "Ortega-Hall",
+        "cast": [
+            "Jessica King",
+            "Vanessa Wallace",
+            "William Webb"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Employee financial",
+        "description": "Piece realize your name capital activity believe. Large organization thought light many high while. Magazine capital red market skin forward perform.",
+        "launchDate": "2020-11-01",
+        "thumbnailImage": "https://placekitten.com/195/445",
+        "episodes": 13,
+        "rating": 5.4,
+        "genre": "Mystery",
+        "country": "Canada",
+        "production": "Harrison, Rodriguez and Rich",
+        "cast": [
+            "Samantha Krause",
+            "Justin White",
+            "Taylor Lambert",
+            "Christian Finley",
+            "Bryan James"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Science speech central",
+        "description": "Also throughout positive magazine must travel this. Traditional painting none study industry. Appear win image budget practice suddenly.\nOil wife natural. Land painting international letter right.",
+        "launchDate": "2023-10-09",
+        "thumbnailImage": "https://dummyimage.com/663x129",
+        "episodes": 13,
+        "rating": 2.4,
+        "genre": "Action",
+        "country": "UK",
+        "production": "Murphy-Smith",
+        "cast": [
+            "Leonard Carpenter",
+            "Jeremy Parker",
+            "Chelsey Griffith"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Compare explain",
+        "description": "Finish spring television teach grow research. Very room become outside point our space. Specific soon imagine front accept business continue.",
+        "launchDate": "2024-04-28",
+        "thumbnailImage": "https://www.lorempixel.com/812/296",
+        "episodes": 13,
+        "rating": 1.7,
+        "genre": "Adventure",
+        "country": "UK",
+        "production": "Taylor, Thomas and Clay",
+        "cast": [
+            "Brandon Wilson",
+            "Carrie Kim",
+            "Brendan Coleman",
+            "William Morse",
+            "Shawn Thomas"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Compare present street fall",
+        "description": "Month garden generation inside. Article bank away almost law card build. Land call region class.",
+        "launchDate": "2022-11-16",
+        "thumbnailImage": "https://dummyimage.com/633x979",
+        "episodes": 13,
+        "rating": 8.8,
+        "genre": "Drama",
+        "country": "UK",
+        "production": "Martinez, James and Allison",
+        "cast": [
+            "Michael Jackson",
+            "Bradley Dorsey",
+            "Monica Santos",
+            "Connor Johnson"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Meet boy reduce",
+        "description": "Perform several send gun doctor guess. From leg western reduce.\nUntil physical radio hospital kind. Become such beautiful.",
+        "launchDate": "2023-05-31",
+        "thumbnailImage": "https://placeimg.com/1016/54/any",
+        "episodes": 13,
+        "rating": 3.6,
+        "genre": "Fantasy",
+        "country": "UK",
+        "production": "Bishop, Castillo and Jackson",
+        "cast": [
+            "Steven Smith",
+            "Jonathan Thompson",
+            "Brian Arnold MD",
+            "Adam Jones",
+            "Katelyn James"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Cell street difficult",
+        "description": "Activity anyone thousand. White firm say there.\nThose program strategy try. Still officer kind many former shake task. Popular state together relationship end. Shake game term.",
+        "launchDate": "2020-04-12",
+        "thumbnailImage": "https://www.lorempixel.com/115/370",
+        "episodes": 13,
+        "rating": 2.4,
+        "genre": "Thriller",
+        "country": "France",
+        "production": "Turner-Willis",
+        "cast": [
+            "Sarah Huynh",
+            "Lindsay Martin",
+            "Jason Harris",
+            "Jonathan Paul",
+            "Marilyn Barnes"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Ability born",
+        "description": "Decision idea indeed above trial. Machine special good there crime middle. Food should economic discover receive arm hope.\nAround sister speech no town. Say hospital per ever of whole movie.",
+        "launchDate": "2020-05-31",
+        "thumbnailImage": "https://placeimg.com/150/73/any",
+        "episodes": 13,
+        "rating": 8.2,
+        "genre": "Adventure",
+        "country": "South Korea",
+        "production": "Harris Ltd",
+        "cast": [
+            "Desiree Floyd",
+            "Kimberly Perez",
+            "Kimberly Watson"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Every throw agreement subject",
+        "description": "Tell professional fly eight tonight. History she community. Begin through sure describe.\nAway somebody position not try middle. My stay among hold.",
+        "launchDate": "2024-05-07",
+        "thumbnailImage": "https://www.lorempixel.com/730/30",
+        "episodes": 13,
+        "rating": 2.5,
+        "genre": "Drama",
+        "country": "Australia",
+        "production": "Rodriguez-Garcia",
+        "cast": [
+            "Abigail Forbes",
+            "William Payne",
+            "Caitlin Middleton",
+            "Robert Parker"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Something arm",
+        "description": "Nature whom democratic total. Enter use though arrive material. Wish phone behind source clearly turn task. Set behavior wear build wish class.",
+        "launchDate": "2020-11-13",
+        "thumbnailImage": "https://placeimg.com/14/358/any",
+        "episodes": 13,
+        "rating": 2.0,
+        "genre": "Drama",
+        "country": "Germany",
+        "production": "Harper Inc",
+        "cast": [
+            "Martin Smith",
+            "Maria Adams",
+            "Mario Walker",
+            "Jeffrey Navarro",
+            "Sean Krause"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "At",
+        "description": "Under camera energy major clearly loss. Entire yourself imagine people describe cause. Common value wonder end. Pick whatever wife run.\nTurn way itself star child. News situation question night.",
+        "launchDate": "2022-09-18",
+        "thumbnailImage": "https://www.lorempixel.com/687/811",
+        "episodes": 13,
+        "rating": 7.8,
+        "genre": "Mystery",
+        "country": "South Korea",
+        "production": "Osborne-Conner",
+        "cast": [
+            "Dean Ford",
+            "Charles Santiago",
+            "Lisa Kirby",
+            "Kimberly Davies"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Daughter lay be debate",
+        "description": "Whole benefit benefit add knowledge conference then. Daughter exist catch structure.\nSure style carry describe factor design think wife. Impact line bring mind smile experience.",
+        "launchDate": "2021-05-11",
+        "thumbnailImage": "https://placeimg.com/590/163/any",
+        "episodes": 13,
+        "rating": 5.0,
+        "genre": "Comedy",
+        "country": "Australia",
+        "production": "Dickerson, Scott and Vazquez",
+        "cast": [
+            "Timothy Brown",
+            "Mark Aguilar",
+            "Melissa Chase",
+            "Michael Case"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "More different",
+        "description": "Arrive government field can human enjoy act fear. Act still city right war possible surface old. Stop choose college across.",
+        "launchDate": "2020-12-15",
+        "thumbnailImage": "https://www.lorempixel.com/700/636",
+        "episodes": 13,
+        "rating": 5.7,
+        "genre": "Comedy",
+        "country": "UK",
+        "production": "Ross-Acevedo",
+        "cast": [
+            "Danny Long",
+            "Chase Santiago",
+            "Krista May",
+            "Megan Cruz"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Thought officer house them",
+        "description": "Everybody consider everyone unit former. Former watch sure all. Prepare challenge night public myself.",
+        "launchDate": "2020-11-04",
+        "thumbnailImage": "https://www.lorempixel.com/273/358",
+        "episodes": 13,
+        "rating": 6.3,
+        "genre": "Sci-Fi",
+        "country": "India",
+        "production": "Daugherty Inc",
+        "cast": [
+            "Dawn Jackson",
+            "Amanda Sullivan",
+            "Peter Harris",
+            "Matthew Wilson",
+            "Sarah Wiggins"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Former red mind whom",
+        "description": "Professional you receive television environmental. Season soon reduce get approach. Order country continue claim field trial both car. Student visit administration relate send.",
+        "launchDate": "2021-05-09",
+        "thumbnailImage": "https://placekitten.com/31/159",
+        "episodes": 13,
+        "rating": 4.7,
+        "genre": "Adventure",
+        "country": "India",
+        "production": "Herrera-Edwards",
+        "cast": [
+            "Robert Hart MD",
+            "Jennifer Graham",
+            "William Coleman",
+            "Jacob Wilson",
+            "Tammy Carroll"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Source manage research card",
+        "description": "Production week strategy day hair forward senior. Ahead look have. Charge easy cell about foreign partner.",
+        "launchDate": "2021-01-21",
+        "thumbnailImage": "https://placeimg.com/190/617/any",
+        "episodes": 13,
+        "rating": 2.2,
+        "genre": "Adventure",
+        "country": "Canada",
+        "production": "Lopez-Hill",
+        "cast": [
+            "John Jackson",
+            "Beth Stone",
+            "Bruce Fletcher",
+            "Judy Miller"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Food generation full",
+        "description": "Woman career language. Then decide lose year. Up television debate view this summer most.\nSuccessful citizen better study. Size sound four cultural. Page night tell so.",
+        "launchDate": "2022-07-06",
+        "thumbnailImage": "https://placekitten.com/725/860",
+        "episodes": 13,
+        "rating": 3.4,
+        "genre": "Fantasy",
+        "country": "USA",
+        "production": "Ware, Johnston and Sullivan",
+        "cast": [
+            "Adam Brown",
+            "Kaitlin Thompson",
+            "William Marshall",
+            "Tamara Mendoza",
+            "Kenneth Wells"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Spend me",
+        "description": "Provide go become. Performance reduce her.\nNation money work measure production protect mouth.\nYeah over hot friend citizen. Course when grow sister. Significant fund will.",
+        "launchDate": "2023-01-11",
+        "thumbnailImage": "https://www.lorempixel.com/151/744",
+        "episodes": 13,
+        "rating": 5.0,
+        "genre": "Mystery",
+        "country": "France",
+        "production": "Anderson, Williams and Estrada",
+        "cast": [
+            "Cheyenne Wells",
+            "Linda Webster",
+            "Chad Jacobson"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Idea executive",
+        "description": "Threat deal attention nature to.\nIndicate keep subject.\nPicture he international something over they. Off example arrive knowledge. Add nearly their education push remain.",
+        "launchDate": "2020-08-15",
+        "thumbnailImage": "https://placekitten.com/823/437",
+        "episodes": 13,
+        "rating": 6.0,
+        "genre": "Fantasy",
+        "country": "Germany",
+        "production": "King, Rivera and Le",
+        "cast": [
+            "Jennifer Carson",
+            "Steven Sanchez",
+            "Holly Gray",
+            "Troy Willis",
+            "Jaime Jones"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Hope sing",
+        "description": "Focus you occur executive federal expect eight. Each yourself our protect near. Exactly wonder team over.",
+        "launchDate": "2023-06-03",
+        "thumbnailImage": "https://placekitten.com/710/784",
+        "episodes": 13,
+        "rating": 6.7,
+        "genre": "Thriller",
+        "country": "India",
+        "production": "Stephens-Davies",
+        "cast": [
+            "Cory Webster DDS",
+            "Mandy Perez",
+            "Zachary Ferguson",
+            "Lori Jacobs",
+            "Elizabeth Jones"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Conference must somebody read",
+        "description": "Cultural size art everything. Project argue standard growth.\nSerious beat chair necessary example mean. Address agreement high.",
+        "launchDate": "2022-06-27",
+        "thumbnailImage": "https://placekitten.com/473/715",
+        "episodes": 13,
+        "rating": 5.4,
+        "genre": "Action",
+        "country": "Australia",
+        "production": "Cooper, Smith and Carpenter",
+        "cast": [
+            "Darryl Leonard",
+            "Marcus Maldonado",
+            "Andrea Brown"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Attack significant while",
+        "description": "Miss bar story of try. Son trial suffer life chance discuss.",
+        "launchDate": "2021-07-04",
+        "thumbnailImage": "https://dummyimage.com/552x1006",
+        "episodes": 13,
+        "rating": 3.6,
+        "genre": "Crime",
+        "country": "India",
+        "production": "Nolan-Pearson",
+        "cast": [
+            "Angela Hall",
+            "Sheri Nichols",
+            "Elizabeth Davidson",
+            "Margaret Rodriguez",
+            "Brandi Young"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Deep style",
+        "description": "Recently herself discuss full stand then. Value very scene general edge today street per.\nAuthority instead choose true section knowledge number air. Easy few evening thank cover simply.",
+        "launchDate": "2021-09-13",
+        "thumbnailImage": "https://www.lorempixel.com/627/23",
+        "episodes": 13,
+        "rating": 2.1,
+        "genre": "Adventure",
+        "country": "Canada",
+        "production": "Bentley-Guzman",
+        "cast": [
+            "Luis Brown",
+            "Alex Reilly",
+            "Christopher Lamb",
+            "Eric Young"
+        ]
+    }
+]
