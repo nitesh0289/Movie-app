@@ -14,7 +14,8 @@ function Home() {
       <Hero />
       <Recents />
       <Trending />
-      <NewRelease />
+      <NewRelease title={"Movies"} />
+      <NewRelease title={"Series"} />
       <Recommended />
     </main>
   );

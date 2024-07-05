@@ -2,6 +2,7 @@ import { Icon } from "@iconify/react/dist/iconify.js";
 import React from "react";
 
 import Button from "../../../../components/atoms/button";
+import utils from "../../../../utils";
 
 import styles from "./items.module.scss";
 
@@ -17,13 +18,6 @@ function CarouselItems(props) {
     watchNowHandler,
     watchLaterHandler,
   } = props.item;
-
-  const formatMinute = (time) => {
-    const hours = Math.floor(time / 60);
-    const minutes = Math.floor(time % 60);
-
-    return `${hours}:${minutes}:00`;
-  };
 
   return (
     <article className={styles["carousel-item"]}>
@@ -51,7 +45,7 @@ function CarouselItems(props) {
             </div>
             <div className={styles.meta}>
               <Icon icon={"mdi:clock-outline"} />
-              <span>{formatMinute(duration)}</span>
+              <span>{utils.formatMinute(duration)}</span>
             </div>
             <div className={styles.meta}>
               <Icon icon={"mdi:star"} />

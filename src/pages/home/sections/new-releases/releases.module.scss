@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  padding: 37px;
+  flex-direction: column;
+
+  header {
+    display: flex;
+    color: var(--white);
+    justify-content: space-between;
+
+    h1 {
+      font-size: var(--fs-xl);
+      font-weight: var(--fw-medium);
+    }
+
+    p {
+      display: flex;
+      gap: 5px;
+      cursor: pointer;
+      align-items: center;
+    }
+  }
+
+  main {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
