@@ -1,0 +1,30 @@
+.card {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+  color: var(--white);
+
+  a {
+    position: absolute;
+  }
+  img {
+    width: auto;
+    height: 140px;
+    object-fit: cover;
+  }
+
+  .right {
+    display: flex;
+    height: 80%;
+    flex-direction: column;
+    justify-content: center;
+
+    h3 {
+      font-size: var(--fs-large);
+      color: var(--white);
+    }
+
+    p {
+    }
+  }
+}

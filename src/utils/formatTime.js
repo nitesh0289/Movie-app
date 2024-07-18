@@ -2,5 +2,5 @@ export const formatMinute = (time) => {
   const hours = Math.floor(time / 60);
   const minutes = Math.floor(time % 60);
 
-  return `${hours}:${minutes}:00`;
+  return `${hours > 9 ? hours : `0${hours}`}:${minutes}:00`;
 };

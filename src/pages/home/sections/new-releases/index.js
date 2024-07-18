@@ -38,10 +38,12 @@ function NewRelease(props) {
       <main>
         {data.map((item, i) => (
           <Movie
-            thumbnail={item.thumbnailImage}
+            key={i}
+            type={title}
             name={item.title}
             src={item.videoSrc}
             duration={item.duration}
+            thumbnail={item.thumbnailImage}
           />
         ))}
       </main>

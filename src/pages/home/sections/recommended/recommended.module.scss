@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  padding: 37px;
+  flex-direction: column;
+
+  header {
+    display: flex;
+    align-items: center;
+    color: var(--white);
+    justify-content: space-between;
+    .left {
+      display: flex;
+      gap: 15px;
+      h1 {
+        font-size: var(--fs-xl);
+        font-weight: var(--fw-medium);
+      }
+
+      .active {
+        padding: 5px 15px;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+
+      .inactive {
+        padding: 5px 15px;
+        cursor: pointer;
+        color: gray;
+        border-radius: 10px;
+        border: 1px solid red;
+        background-color: transparent;
+      }
+    }
+    p {
+      display: flex;
+      gap: 5px;
+      cursor: pointer;
+      align-items: center;
+    }
+  }
+
+  main {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
