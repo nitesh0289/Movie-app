@@ -1,8 +1,14 @@
 const express = require("express");
 const router = express.Router();
 
-const { getSeries } = require("../controllers/series.controller");
+const {
+  getSeries,
+  getRecentSeries,
+  getRecommendedSeries,
+} = require("../controllers/series.controller");
 
 router.get("/", getSeries);
+router.get("/recent", getRecentSeries);
+router.get("/recommended", getRecommendedSeries);
 
 module.exports = router;
